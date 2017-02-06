@@ -3,7 +3,7 @@
 Small to large screens
 - Text font size: heading 3
 - Line height: heading 3 line-height
-- Text color: $color-x-dark
+- Text color: $color-dark
 - Quotation marks font size: heading 1
 - Quotation marks color: $color-mid-light
 - Left quotation mark: bottom edge aligns with top of text block
