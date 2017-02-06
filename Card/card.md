@@ -1,18 +1,14 @@
 # Vanilla: Card
 
 Card
-- border-color: $color-mid-light
-- border-width: 1px
-- border-style: solid
-- border-radius: 2px
-- padding: 16px
-- background-color: $color-x-light
+- Border color: $color-mid-light
+- Border width: 1px
+- Border style: solid
+- Padding: 20px
 
 Card highlighted
-- border-color: $color-mid-light
-- border-width: 1px
-- border-style: solid
-- border-radius: 2px
-- padding: 16px
-- background-color: $color-x-light
-- box-shadow: 0 1px 5px 1px rgba(51, 51, 51, 0.2)
+- Border color: $color-mid-light
+- Border width: 1px
+- Border style: solid
+- Padding: 20px
+- Box shadow: 0 1px 5px 1px rgba(51, 51, 51, 0.2)
