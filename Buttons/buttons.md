@@ -1,33 +1,33 @@
 # Vanilla: Buttons
 
 Common
-- font-size: 16px
-- padding: 12px 24px
-- border-radius: 2px
+- Font size: 16px
+- Padding: 12px 24px
+- Border radius: 2px
 - Disabled:
-	- opacity: 0.5
+	- Opacity: 0.5
 
 Base
-- text color: $color-mid-dark
-- background-color: transparent
+- Text color: $color-dark
+- Background color: transparent
 - Hover:
-	- background-color: $color-light
+	- Background color: $color-light
 
 Neutral
-- text color: $color-mid-dark
-- background-color: $color-x-light
-- border: 1px solid $color-mid-light
+- Text color: $color-dark
+- Background color: $color-x-light
+- Border: 1px solid $color-mid-light
 - Hover:
-	- background-color: $color-light
+	- Background color: $color-light
 
 Positive
-- text color: $color-x-light
-- background-color: $color-positive
+- Text color: $color-x-light
+- Background color: $color-positive
 - Hover:
-	- background-color: 10% darker $color-positive
+	- Background color: 10% darker $color-positive
 
 Negative
-- text color: $color-x-light
-- background-color: $color-negative
+- Text color: $color-x-light
+- Background color: $color-negative
 - Hover:
-	- background-color: 10% darker $color-negative
+	- Background color: 10% darker $color-negative
