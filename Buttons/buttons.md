@@ -31,3 +31,9 @@ Negative
 - Background color: $color-negative
 - Hover:
 	- Background color: 10% darker $color-negative
+
+Brand
+- Text color: $color-x-light
+- Background color: $color-brand
+- Hover:
+	- Background color: 10% darker $color-brand
