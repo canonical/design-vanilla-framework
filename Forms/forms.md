@@ -36,7 +36,7 @@ Validation:
 - Validation icons:
 	- Position inside input field: 12px from top and right
 - Success:
-	- Input border color: $color-success
+	- Input border color: $color-positive
 	- Icon: https://assets.ubuntu.com/v1/94949185-icon-success.svg
 - Warning:
 	- Input border color: $color-warning
