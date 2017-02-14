@@ -12,13 +12,13 @@ Mid light
 - #cdcdcd
 - $color-mid-light
 
-Dark
-- #666666
-- $color-dark
-
 Mid dark
-- #333333
+- #666666
 - $color-mid-dark
+
+Dark
+- #111111
+- $color-dark
 
 Extra dark
 - #000000
