@@ -25,7 +25,7 @@ Extra dark
 - $color-x-dark
 
 Positive
-- #0f8420
+- #0e8420
 - $color-positive
 
 Warning
@@ -33,10 +33,13 @@ Warning
 - $color-warning
 
 Negative
-- #d73024
+- #c7162b
 - $color-negative
 
-
 Information
-- #007aa6
+- #335280
 - $color-information
+
+Link
+- #007aa6
+- $color-link
