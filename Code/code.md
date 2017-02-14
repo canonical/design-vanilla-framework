@@ -8,7 +8,7 @@ General for all
 Code ```<code>```
 - Line height: 1.5
 
-Code block ```<pre>
+Code block ```<pre>```
 - Line height: 1.5
 - Color: $color-dark
 - Border color: $color-mid-dark
