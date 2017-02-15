@@ -5,10 +5,10 @@ General for all
 - Font weight: 300
 - Text color: $color-dark
 
-Code ```<code>```
+Code <code>
 - Line height: 1.5
 
-Code block ```<pre>```
+Code block <pre>
 - Line height: 1.5
 - Color: $color-dark
 - Border color: $color-mid-dark
@@ -18,9 +18,10 @@ Code block ```<pre>```
 - Padding: 16px
 - Background color: $color-light
 
-Code block numbered ```<pre>```
+Code block numbered <pre>
 - Numbers color: $color-mid-dark
 - Numbers margin right: 16px
+- Allow for 3 digits in line number column
 
 Code snippet
 - Line height: 1
