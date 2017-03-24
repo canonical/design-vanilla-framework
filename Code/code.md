@@ -20,8 +20,11 @@ Code block ```<pre>```
 
 Code block numbered ```<pre>```
 - Numbers color: $color-mid-dark
-- Numbers margin right: 16px
-- Allow for 3 digits in line number column
+- Numbers area padding: 16px
+- Numbers background: $color-x-light
+- Border between numbers and code: 1px $color-dark
+- Code area padding: 16px
+- Allow for 4 digits in line number column
 
 Code snippet
 - Line height: 1
