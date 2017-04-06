@@ -4,6 +4,10 @@
 - Font size: 16px
 - Padding: 12px 24px
 - Border radius: 2px
+- Animation:
+	- Hover background color:
+		- Duration: $fast
+		- Easing: $in
 - Disabled:
 	- Opacity: 0.5
 
