@@ -3,7 +3,7 @@
 All screen sizes:
 - Font size and line height: paragraph
 - Text color: $color-dark
-- Link style: soft
+- Link style: regular
 - Arrow character: \203A
 - Arrow font size and line height: paragraph
 - Arrow left and right margin: 8px
