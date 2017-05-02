@@ -18,6 +18,6 @@ Card with heading
 - Heading border width: 1px
 - Heading border style: solid
 - Heading border top margin
-		- Heading is text: 12px
-		- Heading is image or icon: 20px
+  - Heading is text: 12px
+  - Heading is image or icon: 20px
 - Heading border bottom margin: 12px
