@@ -11,7 +11,7 @@ All types:
 	- Alignment with text: center aligned with first line of text
 	- Margin right: 12px
 
-Neutral notification:
+Default notification:
 - Border top color: $color-mid-dark
 - No icon
 
@@ -19,14 +19,14 @@ Information notification:
 - Border top color: $color-information
 - No icon
 
-Success notification:
+Positive notification:
 - Border top color: $color-positive
 - Icon: https://assets.ubuntu.com/v1/94949185-icon-success.svg
 
-Warning notification:
-- Border top color: $color-warning
-- Icon: https://assets.ubuntu.com/v1/c41194d3-icon-warning.svg
+Caution notification:
+- Border top color: $color-caution
+- Icon: https://assets.ubuntu.com/v1/db30f04c-icon-caution.svg
 
-Error notification:
+Negative notification:
 - Border top color: $color-negative
 - Icon: https://assets.ubuntu.com/v1/4b0cd7fc-icon-error.svg
