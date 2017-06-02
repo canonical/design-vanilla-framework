@@ -9,5 +9,5 @@ Small screens
 Medium and large screens
 - Image container size: 180x180px
 - Gutter (vertical and horizontal): 60px
-- Items per line: 3
+- No item limit per line
 - Horizontal alignment of widows: center
