@@ -32,9 +32,9 @@
 - Heading 5: 24px
 - Heading 6: 24px
 - Paragraph:
-				- After heading 1: 16px
-				- After heading 2-6: 8px
-				- After paragraph: 16px
+  - After heading 1: 16px
+  - After heading 2-6: 8px
+  - After paragraph: 16px
 
 ### Large screens
 - Heading 1: 60px margin top
@@ -44,10 +44,10 @@
 - Heading 5: 32px
 - Heading 6: 32px
 - Paragraph:
-				- After heading 1: 24px
-				- After heading 2-4: 16px
-				- After heading 5-6: 12px
-				- After paragraph: 24px
+  - After heading 1: 24px
+  - After heading 2-4: 16px
+  - After heading 5-6: 12px
+  - After paragraph: 24px
 
 ## Lists (ordered, unordered, description)
 
