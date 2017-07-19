@@ -24,7 +24,7 @@
 
 ## Headings and paragraph margin top
 
-## Small and medium screens
+### Small and medium screens
 - Heading 1: 32px margin top
 - Heading 2: 24px
 - Heading 3: 24px
@@ -32,9 +32,9 @@
 - Heading 5: 24px
 - Heading 6: 24px
 - Paragraph:
-		- After heading 1: 16px
-		- After heading 2-6: 8px
-		- After paragraph: 16px
+				- After heading 1: 16px
+				- After heading 2-6: 8px
+				- After paragraph: 16px
 
 ### Large screens
 - Heading 1: 60px margin top
@@ -44,10 +44,10 @@
 - Heading 5: 32px
 - Heading 6: 32px
 - Paragraph:
-		- After heading 1: 24px
-		- After heading 2-4: 16px
-		- After heading 5-6: 12px
-		- After paragraph: 24px
+				- After heading 1: 24px
+				- After heading 2-4: 16px
+				- After heading 5-6: 12px
+				- After paragraph: 24px
 
 ## Lists (ordered, unordered, description)
 
@@ -71,7 +71,7 @@
 
 *Note:* The margin bottom values are applied as a margin top on elements that follow the code block
 
-## Small and medium screens
+### Small and medium screens
 - Margin top / bottom: 20px
 
 ### Large screens
@@ -93,7 +93,7 @@
 
 *Note:* The margin bottom value is applied as a margin top on elements that follow the table
 
-## All screens
+### All screens
 - Margin top / bottom: 36px
 
 ## Form labels
