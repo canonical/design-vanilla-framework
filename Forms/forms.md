@@ -2,45 +2,56 @@
 
 Labels
 - Text color: $color-dark
-- Font size: 16px
-- Line-height: 1.5
-- Margin bottom: 8px
+- Font size/line-height: paragraph
+- Margin bottom: `$sp-x-small`
 
 Text input fields and texarea:
-- Background color: $color-x-light
-- Border color: $color-mid-light
+- Background color: `$color-x-light`
+- Border color: `$color-mid-light`
 - Border style: solid
 - Border width: 1px
 - Border radius: 2px
-- Padding vertical: 8px
-- Padding horizontal: 12px
+- Padding top/bottom: `$sp-x-small`
+- Padding left/right: `$sp-small`
 - Unfocused:
-  - Placeholder text color: $color-mid-dark
+  - Placeholder text color: `$color-mid-dark`
 - Focused:
-	- Text color: $color-dark
-	- Border color: $color-mid-dark
+	- Text color: `$color-dark`
+	- Border color: `$color-mid-dark`
+
+Fieldset
+- Background color: `$color-light`
+- Border color: `$color-mid-light`
+- Border style: solid
+- Border width: 1px
+- Border radius: 2px
+- Padding: `$sp-small`
+- Heading: heading-three
+- Heading bottom border: 1px `$color-mid-light` solid
+- Space between heading and heading border: `$sp-small`
+- Space between consecutive field sets: `$sp-large`
 
 Help text:
-- Text color: $color-mid-dark
+- Text color: `$color-mid-dark`
 - Font size: 14px
 - Line height: 1.5
-- Margin top: 8px
+- Margin top: `$sp-x-small`
 
 Validation:
 - Validation messages:
-	- Text color: $color-dark
+	- Text color: `$color-dark`
 	- Font size: 14px
 	- Line height: 1.5
 	- First word ("Error", "Warning") font weight: 400
-	- Margin top: 8px
+	- Margin top: `$sp-x-small`
 - Validation icons:
 	- Position inside input field: 12px from top and right
 - Success:
-	- Input border color: $color-positive
+	- Input border color: `$color-positive`
 	- Icon: https://assets.ubuntu.com/v1/94949185-icon-success.svg
 - Warning:
-	- Input border color: $color-warning
+	- Input border color: `$color-warning`
 	- Icon: https://assets.ubuntu.com/v1/c41194d3-icon-warning.svg
 - Error:
-	- Input border color: $color-negative
+	- Input border color: `$color-negative`
 	- Icon: https://assets.ubuntu.com/v1/4b0cd7fc-icon-error.svg
