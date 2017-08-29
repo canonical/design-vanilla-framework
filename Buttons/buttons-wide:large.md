@@ -1,4 +1,4 @@
-# Vanilla: Buttons
+# Vanilla: Buttons wide/large
 
 Wide button
 - Same style and dimensions as Vanilla, display full width within parent container
