@@ -1,4 +1,4 @@
-# Brochure theme: Inline button
+# Vanilla: Buttons inline
 
 All sizes:
 - Button margin left: 16px
