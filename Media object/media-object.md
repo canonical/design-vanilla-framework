@@ -1,4 +1,4 @@
-# Brochure theme: Media object
+# Vanilla: Media object
 
 All screen sizes:
 - Ideal title font size/line height: heading level 4
