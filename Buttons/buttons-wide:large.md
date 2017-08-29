@@ -1,4 +1,4 @@
-# Brochure theme: Buttons
+# Vanilla: Buttons
 
 Wide button
 - Same style and dimensions as Vanilla, display full width within parent container
