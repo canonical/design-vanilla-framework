@@ -1,4 +1,4 @@
-# Brochure theme: Card overlay
+# Vanilla: Card overlay
 
 Small to large screens:
 - Background color: $color-x-light
