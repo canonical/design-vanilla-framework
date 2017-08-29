@@ -1,4 +1,4 @@
-# Brochure theme: Heading icon
+# Vanilla: Heading icon
 
 Small screen:
 - All text colour: $color-dark
