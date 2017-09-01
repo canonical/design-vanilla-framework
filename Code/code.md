@@ -11,7 +11,7 @@ Code ```<code>```
 Code block ```<pre>```
 - Line height: 1.5
 - Color: $color-dark
-- Border color: $color-mid-dark
+- Border color: $color-mid-light
 - Border width: 1px
 - Border style: solid
 - Border radius: 2px
@@ -22,14 +22,14 @@ Code block numbered ```<pre>```
 - Numbers color: $color-mid-dark
 - Numbers area padding: 16px
 - Numbers background: $color-x-light
-- Border between numbers and code: 1px $color-dark
+- Border between numbers and code: 1px $color-mid-light
 - Code area padding: 16px
 - Allow for 4 digits in line number column
 
 Code snippet
 - Line height: 1
 - Color: $color-mid-dark
-- Border color: $color-mid-dark
+- Border color: $color-mid-light
 - Border width: 1px
 - Border style: solid
 - Border radius: 2px
