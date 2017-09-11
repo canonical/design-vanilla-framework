@@ -1,4 +1,4 @@
-# Vanilla Dashboard theme: Tabs
+# Tabs
 
 ## All screens
 - font size: 14px
