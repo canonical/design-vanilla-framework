@@ -1,14 +1,27 @@
-# Vanilla: Tabs
+# Vanilla Dashboard theme: Tabs
 
-All screen sizes:
-- Label font size: 16px
-- Label text color: $color-dark
-- Label font weight: 300
-- Label vertical padding: 12px
-- Label horizontal padding: 24px
-- Border bottom: 1px solid $color-mid-light
-- Link style: soft
-- Active tab:
-	- Label font weight: 400
-	- Label bottom padding bottom: 9px (to account for extra border bottom)
-	- Border bottom: 3px solid $color-dark (sits above the border bottom of the entire tabs area)
+## All screens
+- font size: 14px
+- font colour: `$color-dark`
+- Container:
+  - background color: `$color-x-light`
+  - border-radius: 0px;
+  - box-shadow: 0, 1px, 2px, 0px;
+  - box-shadow-color: `$color-dark` (20% opacity);
+  - text top and bottom padding: `$sp-small`
+  - left and right padding: `$sp-large`
+
+## Mobile screen
+- Icon: 
+  - asset-file: https://assets.ubuntu.com/v1/9716bbab-chevron.svg
+  - top and bottom padding `$sp-small`
+  - left and right padding: `$sp-large`
+  - background: linear-gradient (to left, `$color-x-light` 0%, `$color-x-light` 100%);
+
+## Hover state
+- bottom-border: 3px;
+- border-colour: `$color-mid-light`
+
+## Selected state
+- bottom-border: 3px;
+- border-colour: `$color-mid-dark`
