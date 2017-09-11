@@ -1,5 +1,5 @@
-### All screens \
-\
+### All screens
+
 - Font size: $sp-medium\
 - Link type: Strong\
 - Vertical line: 1px width, Colour: #cdcdcd\
