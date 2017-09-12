@@ -1,4 +1,4 @@
-# Vanilla Dashboard theme: Table responsive
+# Table mobile card
 
 ## Large and medium screens
 - Styling follows table pattern implemented in Vanilla 
