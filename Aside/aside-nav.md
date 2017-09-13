@@ -1,4 +1,4 @@
-# Vanilla: Table of contents
+# Vanilla: Aside nav
 
 Layout
 - Max width: 2-col
