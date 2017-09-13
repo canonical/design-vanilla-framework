@@ -12,7 +12,7 @@ Breakline
 - Border color: $color-mid-light
 - Border width: 1px
 - Border style: solid
-- Padding: 10px
+- Padding: 0.5rem
 
 Site title
 - Font size: 1rem 
