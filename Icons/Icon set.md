@@ -6,7 +6,7 @@ List tree expand - https://assets.ubuntu.com/v1/52ee7ac2-tree-open.svg
 
 List tree collapse - https://assets.ubuntu.com/v1/d705d8f6-tree-close.svg
 
-Loading (spinner) - https://assets.ubuntu.com/v1/60ddfec6-spinner.svg
+Loading (spinner) - https://assets.ubuntu.com/v1/cf724b67-spinner-dark-grey.svg
 
 Chevron - https://assets.ubuntu.com/v1/04d2075a-chevron_down.svg
 
