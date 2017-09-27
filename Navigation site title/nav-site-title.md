@@ -1,9 +1,9 @@
 # Vanilla: Navigation site title
 
 Desktop and mobile navigation
-- Inherit current Vanilla navigation width
-- Navigation height: 64px
+- Inherit current Vanilla navigation height
 - Logo height: 32px
+- Logo padding: $sp-x-small
 - Border bottom color: $color-mid-light
 - Border bottom width: 1px
 - Border bottom style: solid
