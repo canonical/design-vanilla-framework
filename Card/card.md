@@ -11,11 +11,11 @@ Card highlighted
 - Padding: 20px
 - Box shadow: 0 1px 5px 1px rgba(51, 51, 51, 0.2)
 
-Card with heading
-- Heading border color: `$color-mid-light`
-- Heading border width: 1px
-- Heading border style: solid
-- Heading border top margin
-  - Heading is text: 12px
-  - Heading is image or icon: 20px
-- Heading border bottom margin: 12px
+Card with header
+- Header border color: `$color-mid-light`
+- Header border width: 1px
+- Header border style: solid
+- Header border top margin
+  - Header is text: 12px
+  - Header is image or icon: 20px
+- Header border bottom margin: 12px
