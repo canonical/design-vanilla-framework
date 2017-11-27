@@ -15,7 +15,7 @@ Default slider toggle:
 - Color: $color-x-light
 - Size: `24px`
 - Shadow color: $color-dark
-- Shadow values: x,0 y,0 blur,2 spread,1 opacity 0.2,
+- Shadow values: x-0, y-0, blur-2, spread-1, opacity-0.2,
 - Position: u-vertically-center
 
 Default value:
