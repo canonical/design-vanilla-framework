@@ -18,7 +18,6 @@ Disabled state
 - Opacity: 0.5
 
 Input state - Medium and small screen sizes
-- Text color: `$color-dark`
 - Close icon: `p-icon--close`
 - Close icon position: `.u-vertically-center`
 - Close icon margin right: `0.75rem`	
