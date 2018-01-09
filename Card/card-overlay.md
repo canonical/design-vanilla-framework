@@ -1,7 +1,7 @@
 # Vanilla: Card overlay
 
-Small to large screens:
-- Background color: $color-x-light
-- Background opacity: 85%
+All screen sizes:
+- Background color: `$color-x-light`
+- Background opacity: 0.9;
 - Border radius: 0px
 - Padding: 20px
