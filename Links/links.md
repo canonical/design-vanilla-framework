@@ -1,61 +1,50 @@
 # Vanilla: Links
 
-$color-link: #007aa6
-
-Regular link:
-- Text color: $color-link
+Default link:
+- Text color: `$color-link`
 - Font weight: 300
 - No underline
-- Hover:
-	- Text underline
+- Hover state: Text underline
 
 Strong link:
-- Text color: $color-dark
+- Text color: `$color-dark`
 - Font weight: 400
 - No underline
-- Hover:
-	- Text underline
-	- Text color: $color-link
+- Hover state: Text underline
+- Hover state text color: `$color-link`
 
-Soft link:
-- Text color: $color-dark
+External link:
+- Text color: `$color-link`
 - Font weight: 300
 - No underline
-- Hover:
-	- Text underline
-	- Text color: $color-link
-- Selected:
-	- Font weight: 400
+- Icon margin left: 4px
+- Icon: https://assets.ubuntu.com/v1/e8acfcc0-icon-link-external-blue.svg
+- Hover state: Text underline
+
+External link strong:
+- Text color: `$color-dark`
+- Font weight: 400
+- No underline
+- Icon margin left: 4px
+- Icon: https://assets.ubuntu.com/v1/f03761da-icon-link-external-grey.svg
+- Hover state: Text underline
+
+Soft link:
+- Text color: `$color-dark`
+- Font weight: 300
+- No underline
+- Hover state: Text underline
+- Hover state text color: `$color-link`
+
+Back to top link:
+- Link style: soft
+- Border: 1px solid `$color-mid-light`
+- Margin left/right between text and border: `0.25rem`
+- Text offset from right edge: 40px
+- Text and border align: `.u-vertically-center`
 
 Inverted link:
 - Text color: $color-x-light
 - Font weight: 400
 - No underline
-- Hover:
-	- Text underline
-
-External link regular:
-- Text color: $color-link
-- Font weight: 300
-- No underline
-- Icon margin left: 4px
-- Icon: https://assets.ubuntu.com/v1/e8acfcc0-icon-link-external-blue.svg
-- Hover:
-	- Text underline
-
-External link strong:
-- Text color: $color-dark
-- Font weight: 400
-- No underline
-- Icon margin left: 4px
-- Icon: https://assets.ubuntu.com/v1/f03761da-icon-link-external-grey.svg
-- Hover:
-	- Text underline
-
-Link top:
-- Font size/line height: paragraph
-- Link style: soft
-- Border: 1px solid $color-mid-light
-- Margin left/right between text and border: 4px
-- Text offset from right edge: 40px
-- Text and border align center vertically
+- Hover state: Text underline
