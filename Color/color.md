@@ -1,5 +1,9 @@
 # Vanilla: Colors
 
+Brand
+- #333333
+- $color-brand
+
 Extra light
 - #ffffff
 - $color-x-light
@@ -24,17 +28,17 @@ Extra dark
 - #000000
 - $color-x-dark
 
-Positive
-- #0e8420
-- $color-positive
-
-Warning
-- #f99b11
-- $color-warning
-
 Negative
 - #c7162b
 - $color-negative
+
+Caution
+- #f99b11
+- $color-caution
+
+Positive
+- #0e8420
+- $color-positive
 
 Information
 - #335280
