@@ -1,6 +1,6 @@
 # Vanilla: Buttons
 
-## Common
+## Default styling
 - Font size: 16px
 - Padding: 12px 24px
 - Border radius: 2px
