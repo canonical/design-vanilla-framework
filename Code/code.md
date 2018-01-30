@@ -1,15 +1,15 @@
 # Vanilla: Code
 
-General for all
+## Default styling
 - Font family: Ubuntu Mono
 - Font weight: 300
 - Text color: $color-dark
 
-Code ```<code>```
-- Line height: 1.5
+## Inline Code ```<code>```
+- Line height: `1.5rem`
 
-Code block ```<pre>```
-- Line height: 1.5
+## Code block ```<pre>```
+- Line height: `1.5`
 - Color: $color-dark
 - Border color: $color-mid-light
 - Border width: 1px
@@ -18,7 +18,7 @@ Code block ```<pre>```
 - Padding: 16px
 - Background color: $color-light
 
-Code block numbered ```<pre>```
+## Code numbered ```<pre>```
 - Numbers color: $color-mid-dark
 - Numbers area padding: 16px
 - Numbers background: $color-x-light
@@ -26,8 +26,8 @@ Code block numbered ```<pre>```
 - Code area padding: 16px
 - Allow for 4 digits in line number column
 
-Code snippet
-- Line height: 1
+## Code snippet
+- Line height: `1.5rem`
 - Color: $color-mid-dark
 - Border color: $color-mid-light
 - Border width: 1px
@@ -37,6 +37,6 @@ Code snippet
 - Box shadow: inset 0 1px 2px 0 rgba(0,0,0,0.12)
 - Code snippet icon size: 16 x 16px
 - Copy snippet icon size: 16 x 16px
-- Copy snippet box size: 36 x 36px
+- Copy snippet box size: 38 x 38px
 - Copy snippet background color: $color-x-light (no inset shadow)
 - Copy snippet border left: same as rest of box
