@@ -5,6 +5,6 @@
 - The colour of the spinner can be changed by editing the "stroke" value in line 76 (open the file in a text editor)
 - The position and size of the spinner varies depending on its location
 - Animation:
-		- Duration: $sleepy
-		- Easing: linear
-		- Number of repetitions: infinite
+	- Duration: $sleepy
+	- Easing: linear
+	- Number of repetitions: infinite
