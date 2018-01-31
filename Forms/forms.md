@@ -48,10 +48,10 @@ Validation:
 	- Position inside input field: 12px from top and right
 - Success:
 	- Input border color: `$color-positive`
-	- Icon: https://assets.ubuntu.com/v1/94949185-icon-success.svg
+	- Icon: `p-icon--success`
 - Warning:
 	- Input border color: `$color-warning`
-	- Icon: https://assets.ubuntu.com/v1/c41194d3-icon-warning.svg
+	- Icon: `p-icon--warning`	
 - Error:
 	- Input border color: `$color-negative`
-	- Icon: https://assets.ubuntu.com/v1/4b0cd7fc-icon-error.svg
+	- Icon: `p-icon--error`
