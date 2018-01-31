@@ -1,4 +1,4 @@
-# Spinner
+# Vanilla: Spin
 
 - Spinner grey: https://assets.ubuntu.com/v1/65b70b84-spinner-dark-grey.svg
 - Spinner white: https://assets.ubuntu.com/v1/be6583dc-spinner-white.svg
