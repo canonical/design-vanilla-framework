@@ -17,4 +17,4 @@
 
 ## Large screen
 - Icon size: 60 x 60px
-- Title/icon margin bottom (of tallest): 24px
+- Title/icon margin bottom (of tallest): 16px
