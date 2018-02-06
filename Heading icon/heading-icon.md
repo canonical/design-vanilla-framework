@@ -1,7 +1,7 @@
 # Vanilla: Heading icon
 
-Small screen:
-- All text colour: $color-dark
+## Small screen
+- All text colour: `$color-dark`
 - Title font size: depends on heading style applied
 - Title line height: depends on heading style applied
 - Icon size: 40 x 40px
@@ -11,10 +11,10 @@ Small screen:
 - Paragraph font size: paragraph
 - Block margin bottom: 32px
 
-Medium screen:
+## Medium screen
 - Icon size: 60 x 60px
 - Block margin bottom: 0px
 
-Large screen:
+## Large screen
 - Icon size: 60 x 60px
 - Title/icon margin bottom (of tallest): 24px
