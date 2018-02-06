@@ -9,5 +9,5 @@ Title
 
 Icons
 - Social sprite: https://assets.ubuntu.com/v1/84e80eee-vanilla-social-sprite.svg
-- Size: 40m x 40px
+- Size: 40 x 40px
 - Margin right: `1rem`
