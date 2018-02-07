@@ -1,17 +1,16 @@
 # Vanilla: Media object
 
-All screen sizes:
-- Ideal title font size/line height: heading level 4
+### All screen sizes
+- Font size: h3
 - Title margin bottom: 8px
 - Image margin right: 16px
-- Meta data margin bottom: 8px
+- Meta data margin bottom: 16px
 
-Small screens:
+### Small screens
 - Image size: 60 x 60px
 
-Medium and large screens:
+### Medium and large screens
 - Image size: 72 x 72px
-
 - Event icons:
 	- Size: 16 x 16px (make sure icons don't have white space around)
 	- Margin right: 8px 
