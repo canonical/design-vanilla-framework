@@ -37,7 +37,7 @@
 - Hover state text color: `$color-link`
 
 ### Back to top link
-- Link style: soft
+- Link style: default
 - Border: 1px solid `$color-mid-light`
 - Margin left/right between text and border: `0.25rem`
 - Text offset from right edge: 40px
