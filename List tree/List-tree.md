@@ -2,7 +2,6 @@
 
 ### All screens
 
-- Font size: $sp-medium
 - Link type: Strong
 - Vertical line: 1px width, color: $color-mid-light
 - Horizontal line: 1px height, width: 10px, color: $color-mid-light
