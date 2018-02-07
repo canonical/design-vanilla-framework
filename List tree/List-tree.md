@@ -1,11 +1,13 @@
+# Vanilla: List tree
+
 ### All screens
 
-- Font size: $sp-medium\
-- Link type: Strong\
-- Vertical line: 1px width, Colour: #cdcdcd\
-- Horizontal line: 1px height, width: 10px, Colour: #cdcdcd\
-- Spacing between horizontal lines: 28px\
+- Font size: $sp-medium
+- Link type: Strong
+- Vertical line: 1px width, color: $color-mid-light
+- Horizontal line: 1px height, width: 10px, color: $color-mid-light
+- Spacing between horizontal lines: 28px
 - Spacing between vertical lines when expanded: 20px
-- Horizontal line centered to the text\
+- Horizontal line centered to the text
 - Expand icon: https://assets.ubuntu.com/v1/52ee7ac2-tree-open.svg
 - Collapse icon: https://assets.ubuntu.com/v1/d705d8f6-tree-close.svg
