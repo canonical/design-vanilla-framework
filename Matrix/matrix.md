@@ -1,6 +1,6 @@
 # Vanilla: Matrix
 
-All sizes:
+### All sizes
 - Title font size: any heading size
 - Title line height: depends on heading size
 - Title margin bottom: 8px
@@ -13,13 +13,13 @@ All sizes:
 - Border width: 1px
 - Border style: solid
 
-Small screens:
+### Small screens
 - Items per row: 1 (full width)
 - Item padding vertical: 16px
 - Item padding horizontal: 0px
 - Border bottom on all items except last
 
-Medium and small screens:
+### Medium and small screens
 - Items per row: 3
 - First row items top padding: 0
 - Last row items bottom padding: 0
