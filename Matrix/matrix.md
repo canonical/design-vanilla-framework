@@ -19,7 +19,7 @@
 - Item padding horizontal: 0px
 - Border bottom on all items except last
 
-### Medium and small screens
+### Medium and large screens
 - Items per row: 3
 - First row items top padding: 0
 - Last row items bottom padding: 0
