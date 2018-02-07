@@ -1,6 +1,6 @@
 # Vanilla: Muted heading
 
-Small to large screens
+### All screens
 - Font size: 14px
 - Text transform: uppercase
 - Color: $color-dark
