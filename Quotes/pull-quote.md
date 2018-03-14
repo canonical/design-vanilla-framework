@@ -1,11 +1,10 @@
 # Vanilla: Pull quote
 
 Small to large screens
-- Text font size: heading 3
-- Line height: heading 3 line-height
-- Text color: $color-dark
-- Quotation marks font size: heading 1
-- Quotation marks color: $color-mid-light
+- Text font size: `1.5rem`
+- Text color: `$color-dark`
+- Quotation marks font size: `2.5rem`
+- Quotation marks color: `$color-mid-light`
 - Left quotation mark: bottom edge aligns with top of text block
 - Left quotation mark margin right: 8px
 - Right quotation mark: top edge aligns with bottom of text block
