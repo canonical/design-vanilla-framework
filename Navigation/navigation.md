@@ -3,18 +3,17 @@
 All screen sizes:
 - Navigation bar height: 48px
 - Website title font size/line height: heading 4
-- Item font size: 14px
-- Item line height: 21px (1.5)
+- Item font size: `14px`
 - Website title and navigation items aligned center vertical within navbar height
 
 Large screens:
-- Title left/right margin: 20px
-- Item left/right padding: 20px
+- Title left/right margin: `20px`
+- Item left/right padding: `20px`
 - Title/item right border: 1px solid `$color-mid-light`
 
 Small screens:
-- Title left margin: 8px
-- Menu label font size: 14px
+- Title left margin: `0.5rem`
+- Menu label font size: `14px`
 - Menu label link style: soft
 - Menu label position: 16px from right edge of nav
 - Background color: `$color-light`
