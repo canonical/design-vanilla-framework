@@ -1,17 +1,17 @@
-# Vanilla Dashboard theme: Tooltip
+# Vanilla: Tooltips
 
 ## All screens
-- font size: 14px
-- font colour: #ffffff
+- font size: `0.875rem`
+- font colour: `$color-x-light`
 - Container follows card pattern (background, border radius, box shadow)
-- background: #111111;
-- Text top and bottom padding: `$sp-xx-small`
+- background: `$color-dark`
+- Text top and bottom padding: `$sp-x-small`
 - left and right padding: `$sp-small`
 - Container:
 		- Minimum width: 2-col
 		- Maximum width: 4-col
 		- Padding left/right: none
-		- Padding top/bottom: `$sp-xx-small`
+		- Padding top/bottom: `$sp-x-small`
 - Position of arrow:
 		- Top right arrow: `$sp-small` from the right edge of container
 		- Top centred arrow is centred within the width of the container width
