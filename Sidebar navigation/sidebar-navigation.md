@@ -11,7 +11,7 @@
 - Padding left: 20px
 
 ### Dropdown
-- Use the <select> element to create a drop-down list
+- Use the `<select>` element to create a drop-down list
 
 ### Section title
 - Link: .p-link--strong
