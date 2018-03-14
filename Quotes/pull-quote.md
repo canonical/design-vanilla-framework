@@ -6,6 +6,6 @@ Small to large screens
 - Quotation marks font size: `2.5rem`
 - Quotation marks color: `$color-mid-light`
 - Left quotation mark: bottom edge aligns with top of text block
-- Left quotation mark margin right: 8px
+- Left quotation mark margin right: `0.5rem`
 - Right quotation mark: top edge aligns with bottom of text block
-- Right quotation mark margin left: 8px (from the last word)  
+- Right quotation mark margin left: `0.5rem` (from the last word)  
