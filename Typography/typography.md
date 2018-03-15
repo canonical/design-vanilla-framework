@@ -94,7 +94,7 @@
 *Note:* The margin bottom value is applied as a margin top on elements that follow the table
 
 ### All screens
-- Margin top / bottom: 36px
+- Margin top / bottom: 24px
 
 ## Form labels
 
