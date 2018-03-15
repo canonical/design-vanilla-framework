@@ -52,7 +52,7 @@
 ## Lists (ordered, unordered, description)
 
 ### Small and medium screens
-- Margin top: 20px
+- Margin top: 24px
 
 ### Large screens
 - Margin top: 36px
@@ -62,10 +62,10 @@
 *Note:* The margin bottom values are applied as a margin top on elements that follow the blockquote
 
 ### Small and medium screens
-- Margin top / bottom: 20px
+- Margin top / bottom: 24px
 
 ### Large screens
-- Margin top / bottom: 32px
+- Margin top / bottom: 36px
 
 ## Code block
 
