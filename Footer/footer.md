@@ -1,8 +1,8 @@
 # Vanilla: Footer
 
 All screen sizes:
-- Font size: 14px
-- Line height: 21px (1.5)
+- Font size: 16px
+- Line height: 24px
 - Text color: $color-dark
 - Middot left/right margin: 8px
 - Middot character: \00b7
