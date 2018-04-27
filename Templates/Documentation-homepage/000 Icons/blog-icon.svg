@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>blog</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="juju-documentation-home-template-008" transform="translate(-333.000000, -1006.000000)" fill="#666666" fill-rule="nonzero">
+            <g id="getting-support/contribute" transform="translate(244.000000, 807.000000)">
+                <g id="Medium-and-large-screens" transform="translate(89.000000, 109.000000)">
+                    <g id="blog" transform="translate(0.000000, 90.000000)">
+                        <g id="picto-quote-orange-(1)">
+                            <g>
+                                <path d="M17.9949254,22.2937313 C16.219403,23.3404776 14.1499104,23.9405373 11.9403582,23.9405373 C5.34573134,23.9405373 5.97014925e-05,18.5946866 5.97014925e-05,11.9998806 C1.35525272e-20,5.40525373 5.34585075,0.0594626866 11.9404179,0.0594626866 C18.5347463,0.0594626866 23.880597,5.40537313 23.880597,11.9998806 C23.880597,14.1749254 23.2988657,16.2138507 22.2831045,17.9700299 L22.280597,17.9688358 L23.880597,23.9405373 L17.9088358,22.3405373 L17.9949254,22.293791 L17.9949254,22.2937313 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

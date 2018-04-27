@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pro-support</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="juju-documentation-home-template-008" transform="translate(-333.000000, -961.000000)" fill="#5E2750" fill-rule="nonzero">
+            <g id="getting-support/contribute" transform="translate(244.000000, 807.000000)">
+                <g id="Medium-and-large-screens" transform="translate(89.000000, 109.000000)">
+                    <g id="pro-support" transform="translate(0.000000, 45.000000)">
+                        <g id="picto-support-orange">
+                            <g transform="translate(0.000000, 0.800000)">
+                                <path d="M10.9518,11.87676 C11.2449,12.16968 11.62842,12.31596 12.01242,12.31596 C12.39618,12.31596 12.77994,12.16968 13.07262,11.87676 L15.75342,9.19596 L15.75342,14.36766 L8.25342,14.36766 L8.25342,9.17826 L10.95174,11.87682 L10.9518,11.87676 Z M18.0054,0.231 C17.54118,-0.0378 16.96902,-0.03822 16.50438,0.2295 C16.03974,0.49728 15.75336,0.9927 15.75336,1.5291 L15.75336,6.07158 L13.07256,3.3912 C12.48732,2.8056 11.53776,2.8056 10.95156,3.3912 L8.25336,6.08952 L8.25336,1.52556 C8.25336,0.9894 7.96716,0.49416 7.50294,0.22596 C7.03872,-0.04164 6.46674,-0.04164 6.00258,0.22674 C2.30064,2.3676 0,6.34962 0,10.61922 C0,17.2362 5.38356,22.62 12.00012,22.62 C18.61668,22.62 24,17.2362 24,10.61928 C24,6.3537 21.7032,2.37312 18.0054,0.231 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
