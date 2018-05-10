@@ -23,7 +23,7 @@
 - Background color: $color-x-light
 - Border: 1px solid $color-mid-light
 - Hover:
-	- Background color: $color-light
+	- Background color: 10% darker $color-light
 
 ## Positive
 - Text color: $color-x-light
