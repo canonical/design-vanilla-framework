@@ -1,15 +1,16 @@
 # Vanilla: Buttons
 
 ## Default styling
-- Font size: 16px
-- Padding: 12px 24px
+- Font size: `1rem`
+- Padding left,right: `1rem`
+- Padding top, bottom: `0.25rem`
 - Border radius: 2px
 - Animation:
 	- Hover background color:
 		- Duration: $fast
 		- Easing: $in
 - Disabled:
-	- Opacity: 0.5
+	- Opacity: `0.5`
 - Default button styles (if not style is stated): Neutral
 
 ## Base
@@ -45,10 +46,8 @@
 
 ## Inline
 All sizes:
-- Button margin left: 16px
+- Button margin left: `1rem`
 - Button text's baseline should align with text baseline
 
 Small screen:
-- Button margin top: 16px (if there is no space for button to sit next to text)
-
-Button and paragraph styles should following up-to-date corresponding patterns.
+- Button margin top: `1rem` (if there is no space for button to sit next to text)
