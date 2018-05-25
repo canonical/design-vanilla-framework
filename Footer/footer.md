@@ -2,11 +2,11 @@
 
 All screen sizes:
 - Font size: `1rem`
-- Text color: $color-dark
+- Text color: `$color-dark`
 - Middot left/right margin: `0.5rem`
 - Middot character: \00b7
 - Link style: default
-- Border top: 1px solid $color-mid-light
+- Border top: 1px solid `$color-mid-light`
 
 Small screens:
 - Padding vertical: `2rem`
