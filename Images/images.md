@@ -2,9 +2,7 @@
 
 ### Image with border
 - Border radius: 2px
-- Border color: `$color-mid-light`
-- Border width: 1px
-- Border style: solid
+- Border: 1px solid `$color-mid-light`
 
 ### Image with drop shadow
 - Border radius: 2px
