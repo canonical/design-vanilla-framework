@@ -2,7 +2,7 @@
 
 All screen sizes:
 - Font size: `1rem`
-- Text color: $color-dark
+- Text color: `$color-dark`
 - Link style: Default
 - Arrow character: `\203A`
 - Arrow font size: `1rem`
