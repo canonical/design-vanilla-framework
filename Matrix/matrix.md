@@ -15,7 +15,7 @@
 ### Small screens
 - Items per row: 1 (full width)
 - Item padding vertical: `1rem`
-- Item padding horizontal: 0px
+- Item padding horizontal: `0px`
 - Border bottom on all items except last
 
 ### Medium and large screens
