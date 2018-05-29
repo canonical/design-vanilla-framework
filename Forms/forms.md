@@ -1,8 +1,8 @@
 # Vanilla: Forms
 
 Labels
-- Text color: $color-dark
-- Font size/line-height: paragraph
+- Text color: `$color-dark`
+- Font size: `1rem`
 - Margin bottom: `$sp-x-small`
 
 Text input fields and texarea:
@@ -33,15 +33,13 @@ Fieldset
 
 Help text:
 - Text color: `$color-mid-dark`
-- Font size: 14px
-- Line height: 1.5
+- Font size: `0.875rem`
 - Margin top: `$sp-x-small`
 
 Validation:
 - Validation messages:
 	- Text color: `$color-dark`
-	- Font size: 14px
-	- Line height: 1.5
+	- Font size: `0.875rem`
 	- First word ("Error", "Warning") font weight: 400
 	- Margin top: `$sp-x-small`
 - Validation icons:
@@ -55,3 +53,38 @@ Validation:
 - Error:
 	- Input border color: `$color-negative`
 	- Icon: `p-icon--error`
+
+Checkboxes
+- Checkbox: browser default
+- Margin right: `0.75rem`
+- Text color: `$color-dark`
+- Font size: `1rem`
+
+Checkboxes disabled
+- Opacity: .5
+- Cursor: not allowed
+
+Radio buttons
+- Checkbox: browser default
+- Margin right: `0.75rem`
+- Text color: `$color-dark`
+- Font size: `1rem`
+
+Radio buttons disabled
+- Opacity: .5
+- Cursor: not allowed
+
+Normal form layout
+- This uses the existing vanilla form
+
+Stacked form layout
+- The text labels should use a max width of 3 cols
+- Label aligned vertically centred to the field
+- spacing `$sp-small` between fields
+- Button is aligned right to the fields
+- Spacing between last field and button $sp-large
+
+In line form layout
+- Spacing between text labels and field `$sp-medium`
+- Spacing between field and next label `$sp-large`
+- Spacing between last field and button `$sp-large`
