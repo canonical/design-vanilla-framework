@@ -2,9 +2,9 @@
 
 ### All screens
 
-- Link type: Strong
-- Vertical line: 1px width, color: $color-mid-light
-- Horizontal line: 1px height, width: 10px, color: $color-mid-light
+- Link type: `.p-link--strong`
+- Vertical line: 1px width, color: `$color-mid-light`
+- Horizontal line: 1px height, width: 10px, color: `$color-mid-light`
 - Spacing between horizontal lines: 28px
 - Spacing between vertical lines when expanded: 20px
 - Horizontal line centered to the text
