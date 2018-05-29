@@ -3,20 +3,17 @@
 ### Default link
 - Text color: `$color-link`
 - Font weight: 300
-- No underline
 - Hover state: Text underline
 
 ### Strong link
 - Text color: `$color-dark`
 - Font weight: 400
-- No underline
 - Hover state: Text underline
 - Hover state text color: `$color-link`
 
 ### External link
 - Text color: `$color-link`
 - Font weight: 300
-- No underline
 - Icon margin left: 4px
 - Icon: https://assets.ubuntu.com/v1/e8acfcc0-icon-link-external-blue.svg
 - Hover state: Text underline
@@ -24,7 +21,6 @@
 ### External link strong
 - Text color: `$color-dark`
 - Font weight: 400
-- No underline
 - Icon margin left: 4px
 - Icon: https://assets.ubuntu.com/v1/f03761da-icon-link-external-grey.svg
 - Hover state: Text underline
@@ -32,7 +28,6 @@
 ### Soft link
 - Text color: `$color-dark`
 - Font weight: 300
-- No underline
 - Hover state: Text underline
 - Hover state text color: `$color-link`
 
@@ -44,7 +39,6 @@
 - Text and border align: `.u-vertically-center`
 
 ### Inverted link
-- Text color: $color-x-light
+- Text color: `$color-x-light`
 - Font weight: 400
-- No underline
 - Hover state: Text underline
