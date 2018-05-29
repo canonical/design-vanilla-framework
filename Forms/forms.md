@@ -5,7 +5,7 @@ Labels
 - Font size: `1rem`
 - Margin bottom: `$sp-x-small`
 
-Text input fields and texarea:
+Text input fields and texarea
 - Background color: `$color-x-light`
 - Border color: `$color-mid-light`
 - Border style: solid
@@ -31,12 +31,12 @@ Fieldset
 - Space between heading and heading border: `$sp-small`
 - Space between consecutive field sets: `$sp-large`
 
-Help text:
+Help text
 - Text color: `$color-mid-dark`
 - Font size: `0.875rem`
 - Margin top: `$sp-x-small`
 
-Validation:
+Validation
 - Validation messages:
 	- Text color: `$color-dark`
 	- Font size: `0.875rem`
@@ -80,11 +80,11 @@ Normal form layout
 Stacked form layout
 - The text labels should use a max width of 3 cols
 - Label aligned vertically centred to the field
-- spacing `$sp-small` between fields
+- Spacing between fields: `$sp-medium` 
 - Button is aligned right to the fields
-- Spacing between last field and button $sp-large
+- Spacing between last field and button: `1.25rem`
 
 In line form layout
-- Spacing between text labels and field `$sp-medium`
-- Spacing between field and next label `$sp-large`
-- Spacing between last field and button `$sp-large`
+- Spacing between text labels and field: `$sp-medium`
+- Spacing between field and next label: `$sp-large`
+- Spacing between last field and button: `$sp-large`
