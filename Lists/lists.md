@@ -45,19 +45,21 @@ Definition:
 Ordered list:
 - Font-size: `1rem`
 - List-style-type: decimal
-  -Nested ordered list:
-  - Font-size: `1rem`
-  - Margin-left: `1rem`
-  - List-style-type: decimal
+
+Nested ordered list:
+- Font-size: `1rem`
+- Margin-left: `1rem`
+- List-style-type: decimal
 
 ### Unordered list
 Unordered list:
 - Font-size: `1rem`
 - List-style-type: disc
-  -Nested unordered list:
-  - Font-size: `1rem`
-  - Margin-left: `1rem`
-  - List-style-type: circle
+
+Nested unordered list:
+- Font-size: `1rem`
+- Margin-left: `1rem`
+- List-style-type: circle
 
 
 ### Stepped list/stepped list detailed
