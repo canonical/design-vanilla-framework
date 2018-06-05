@@ -13,7 +13,6 @@
   - asset-file: https://assets.ubuntu.com/v1/9716bbab-chevron.svg
   - top and bottom padding `.75rem`
   - left and right padding: `$sp-medium`
-  - background: linear-gradient (to left, `$color-x-light` 0%, `$color-x-light` 100%);
 
 ## Hover state
 - bottom-border: 3px;
