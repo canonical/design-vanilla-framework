@@ -1,6 +1,6 @@
 # Vanilla: Switch
 
-## Default switch enabled
+### Default switch enabled
 ### State ‘On’:
 - Container:
   - width: `3rem`
@@ -22,7 +22,7 @@
   - width: `1.5rem`
   - height: `1.5rem`
 
-## Default switch disabled
+### Default switch disabled
 Applies to both states on and off:
 - Opacity: `.5%`
 
