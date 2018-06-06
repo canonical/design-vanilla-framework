@@ -1,6 +1,6 @@
 # Vanilla: Pull quote
 
-All sceens:
+### All sceens:
 - Text font size: `h4`
 - Text color: `$color-dark`
 - Quotation marks color: `$color-mid-light`
