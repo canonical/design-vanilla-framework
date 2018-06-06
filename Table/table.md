@@ -13,4 +13,4 @@ All screens:
 	- Text and heading alignment in text/mixed columns: left
 	- Text and heading alignment in numerical value columns: right
 	- Cell vertical padding: `.5rem`
-	- Row bottom border: 1px solid $color-mid-light
+	- Row bottom border: 1px solid `$color-mid-light`
