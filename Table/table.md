@@ -4,8 +4,8 @@ All screens:
 - Table header:
 	- Font size: `.875rem`
 	- Font color: `$color-mid-dark`
-	- Cell vertical padding: `.5rem
-	- Border bottom: 1px solid $color-dark
+	- Cell vertical padding: `.5rem`
+	- Border bottom: 1px solid `$color-dark`
 
 - Table body:
 	- Font size: `1rem`
