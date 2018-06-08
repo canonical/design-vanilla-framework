@@ -1,6 +1,6 @@
 # Vanilla: Notifications
 
-All types:
+### All types:
 - Font size: `1rem`
 - Border top width: 3px
 - Box border, radius and shadow: follow `p-card` styling
@@ -10,27 +10,27 @@ All types:
   - Alignment with text: center aligned with first line of text
   - Margin right: `1rem`
 
-Default notification:
+### Default notification:
 - Border top color: `$color-mid-dark`
 - No icon
 
-Information notification: 
+### Information notification: 
 - Border top color: `$color-information`
 - No icon
 
-Positive notification:
+### Positive notification:
 - Border top color: `$color-positive`
 - Icon: `p-icon--success`	
 
-Caution notification:
+### Caution notification:
 - Border top color: `$color-caution`
 - Icon: `p-icon--warning`	
 
-Negative notification:
+### Negative notification:
 - Border top color: `$color-negative`
 - Icon: `p-icon--error`	
 
-All types of notification with close icon:
+### All types of notification with close icon:
 - Icon: `p-icon--close`
 - Icon alignment with text: `align:top;`
 - Margin left and right: `1rem` 
