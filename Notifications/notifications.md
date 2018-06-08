@@ -1,15 +1,14 @@
 # Vanilla: Notifications
 
 All types:
-- Font size/line height: paragraph
-- Font weight: 300
-- Link style: regular
+- Font size: `1rem`
 - Border top width: 3px
-- Box border, radius and shadow: card highlight
-- Padding: `0.75rem`
+- Box border, radius and shadow: follow `p-card` styling
+- Padding top/bottom: `0.5rem`
+- Padding left/right: `1rem`
 - Icon (when applicable):
-	- Alignment with text: center aligned with first line of text
-	- Margin right: `0.75rem`
+  - Alignment with text: center aligned with first line of text
+  - Margin right: `1rem`
 
 Default notification:
 - Border top color: `$color-mid-dark`
@@ -34,4 +33,4 @@ Negative notification:
 All types of notification with close icon:
 - Icon: `p-icon--close`
 - Icon alignment with text: `align:top;`
-- Margin left and right: `0.75rem` 
+- Margin left and right: `1rem` 
