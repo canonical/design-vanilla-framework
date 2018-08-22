@@ -4,7 +4,7 @@ Brand
 - #333333
 - $color-brand
 
-Extra light
+Extra-light
 - #ffffff
 - $color-x-light
 
@@ -12,11 +12,19 @@ Light
 - #f7f7f7
 - $color-light
 
-Mid light
+Mid-extra-light
+- #e5e5e5
+- $color-mid-x-light
+
+Mid-light
 - #cdcdcd
 - $color-mid-light
 
-Mid dark
+Mid
+- #999999
+- $color-mid
+
+Mid-dark
 - #666666
 - $color-mid-dark
 
@@ -24,7 +32,7 @@ Dark
 - #111111
 - $color-dark
 
-Extra dark
+Extra-dark
 - #000000
 - $color-x-dark
 
