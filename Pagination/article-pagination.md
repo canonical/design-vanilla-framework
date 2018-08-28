@@ -1,4 +1,4 @@
-# Vanilla: Pagination
+# Vanilla: Article pagination
 
 ### All screens
 - Label font size: `1rem`
