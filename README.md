@@ -1,7 +1,5 @@
 # vanilla-design
-This is the design repository for design components for Vanilla Framework.
-
-We use Issues to create and track design and UX features.
+This is the design repository for design components for Vanilla Framework, we use Issues to create and track design and UX features.
 
 If you have any questions please contact:
 
