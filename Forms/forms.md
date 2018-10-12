@@ -7,7 +7,7 @@ Labels
 
 Text input fields and texarea
 - Background color: `$color-x-light`
-- Border color: `$color-mid-light`
+- Border color: `$color-mid`
 - Border style: solid
 - Border width: 1px
 - Border radius: 2px
