@@ -1,4 +1,4 @@
-# Vanilla: Page pagination
+# Vanilla: Pagination
 
 ### All screens
 - Page numbers: Inherit `p-button--neutral` button styling
