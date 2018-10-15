@@ -14,35 +14,36 @@
 - Default button styles (if not style is stated): Neutral
 
 ## Base
-- Text color: $color-dark
+- Text color: `$color-dark`
 - Background color: transparent
-- Hover:
-	- Background color: $color-light
+- Hover background color: `$color-light`
+- Active background color: 15% darker `$color-light`
 
 ## Neutral
-- Text color: $color-dark
-- Background color: $color-x-light
-- Border: 1px solid $color-mid-light
-- Hover:
-	- Background color: 10% darker $color-light
+- Text color: `$color-dark`
+- Background color: `$color-x-light`
+- Border: 1px solid `$color-mid`
+- Hover background color: `$color-mid-light`
+- Active background color: 15% darker `$color-mid-light`
 
 ## Positive
-- Text color: $color-x-light
-- Background color: $color-positive
-- Hover:
-	- Background color: 10% darker $color-positive
+- Text color: `$color-x-light`
+- Background color: `$color-positive`
+- Hover background color: 10% darker `$color-positive`
+- Active background color: 15% darker `$color-positive`
 
 ## Negative
-- Text color: $color-x-light
-- Background color: $color-negative
-- Hover:
-	- Background color: 10% darker $color-negative
+- Text color: `$color-x-light`
+- Background color: `$color-negative`
+- Hover background color: 10% darker `$color-negative`
+- Active background color: 15% darker `$color-negative`
 
 ## Brand
-- Text color: $color-x-light
-- Background color: $color-brand
-- Hover:
-	- Background color: 10% darker $color-brand
+- Text color: `$color-x-light`
+- Background color: `$color-brand`
+- Hover background color: 10% darker `$color-brand`
+- Active background color: 15% darker `$color-brand`
+
 
 ## Inline
 All sizes:
