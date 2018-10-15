@@ -5,7 +5,7 @@
 ## Headings and paragraph font size / line height
 
 ### Small and medium screens
-- Heading 1: `36px` font size / `48px` line height
+- Heading 1: `36px` font size / `48px`, weight: thin
 - Heading 2: `29px` / `40px`
 - Heading 3: `24px` / `32px`
 - Heading 4: `21px` / `24px`
@@ -25,19 +25,19 @@
 ## Headings and paragraph margin bottom
 
 ### Small and medium screens
-- Heading 1: `29px` margin bottom
+- Heading 1: `29px` margin bottom, weight: thin
 - Heading 2: `23px`
 - Heading 3: `16px`
 - Heading 4: `16px`
-- Heading 5: `18px`
-- Heading 6: `18px`
+- Heading 5: `18px``, weight: regular
+- Heading 6: `18px`, weight: light italic
 - Paragraph: `16px`
 
 ### Large screens
-- Heading 1: `36px` margin bottom
+- Heading 1: `36px` margin bottom, weight: thin
 - Heading 2: `29px`
 - Heading 3: `23px`
 - Heading 4: `16px`
-- Heading 5: `18px`
-- Heading 6: `18px`
+- Heading 5: `18px``, weight: regular
+- Heading 6: `18px`, weight: light italic
 - Paragraph: `16px`
