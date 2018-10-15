@@ -29,7 +29,7 @@
 - Heading 2: `23px`
 - Heading 3: `16px`
 - Heading 4: `16px`
-- Heading 5: `18px``, weight: regular
+- Heading 5: `18px`, weight: regular
 - Heading 6: `18px`, weight: light italic
 - Paragraph: `16px`
 
@@ -38,6 +38,6 @@
 - Heading 2: `29px`
 - Heading 3: `23px`
 - Heading 4: `16px`
-- Heading 5: `18px``, weight: regular
+- Heading 5: `18px`, weight: regular
 - Heading 6: `18px`, weight: light italic
 - Paragraph: `16px`
