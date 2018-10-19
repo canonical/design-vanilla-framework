@@ -23,7 +23,7 @@
 - Text color: `$color-dark`
 - Background color: `$color-x-light`
 - Border: 1px solid `$color-mid`
-- Hover background color: 10% `$color-mid-light`
+- Hover background color: 10% darker `$color-mid-light`
 - Active background color: 15% darker `$color-mid-light`
 
 ## Positive
