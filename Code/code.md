@@ -7,6 +7,8 @@
 
 ## Inline Code ```<code>```
 - Font size: `1rem`
+- Background color: `$color-mid-x-light`
+- Padding left, right: `0.25rem`
 
 ## Code block ```<pre>```
 - Color: $color-dark
