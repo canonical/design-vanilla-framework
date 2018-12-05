@@ -54,6 +54,11 @@ Validation
 	- Input border color: `$color-negative`
 	- Icon: `p-icon--error`
 
+Validation select
+- Inherit text input fields styling
+- Validation icons:
+        - Position inside input field: 12px from right of chevron icon
+
 Checkboxes
 - Checkbox: browser default
 - Margin right: `0.75rem`
