@@ -57,7 +57,7 @@ Validation
 Validation select
 - Inherit text input fields styling
 - Validation icons:
-        - Position inside input field: 12px from right of chevron icon
+        - Position inside input field: `0.5rem` from right of chevron icon
 
 Checkboxes
 - Checkbox: browser default
