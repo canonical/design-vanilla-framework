@@ -16,7 +16,7 @@ Help - https://assets.ubuntu.com/v1/2b00894a-help_16.svg
 
 Information - https://assets.ubuntu.com/v1/4a414012-info_16.svg
 
-Delete - https://assets.ubuntu.com/v1/cf44e6a4-p-icon--delete.svg
+Delete - https://assets.ubuntu.com/v1/d02e6ee3-p-icon--delete.svg
 
 Error - https://assets.ubuntu.com/v1/5594880d-error.svg
 
