@@ -1,4 +1,4 @@
-# vanillaframework-design
+# design-vanilla-framework
 This is the design repository for design components for Vanilla Framework, we use Issues to create and track UI and UX features.
 
 If you have any questions please contact:
