@@ -1,4 +1,4 @@
-# Vanilla: Aside
+# Vanilla: Table of contents
 
 Layout
 - Max-width: `2-col`
