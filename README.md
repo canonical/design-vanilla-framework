@@ -8,4 +8,3 @@ If you have any questions please contact:
 
 ## Component process 
 This is our flow diagram which explains the process when proposing a new, or amending and existing component in Vanilla.
-
