@@ -6,3 +6,6 @@ If you have any questions please contact:
 - Karl Waghorn-Moyce, Lead Visual Designer -  karl.waghorn-moyce@canonical.com
 - Lyubomir Popov, Senior Visual Designer - lyubomir.popov@canonical.com
 
+## Component process 
+This is our flow diagram which explains the process when proposing a new, or amending and existing component in Vanilla.
+
