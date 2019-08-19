@@ -5,12 +5,6 @@
 - Font weight: 300
 - Hover state: Text underline
 
-### Strong link
-- Text color: `$color-dark`
-- Font weight: 400
-- Hover state: Text underline
-- Hover state text color: `$color-link`
-
 ### External link
 - Text color: `$color-link`
 - Font weight: 300
