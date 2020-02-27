@@ -3,45 +3,45 @@
 ### Layout
 - Max width: 3-col
 
-### Heading
-- Font size: `1.5rem `
-- Text color: `$color-dark`
-- Line height: `2rem`
-- Padding top and bottom: 24px
-- Padding left: 20px
-
-### Dropdown
-- Use the `<select>` element to create a drop-down list
-
-### Section title
-- Link: .p-link--strong
-- Font size: `1rem `
-- Text color: `$color-dark`
+### Section heading
+- Section headings should be optional
+- Font size: `p-heading--5`
+- Text color: `muted-text`
 - Line height: `1.5rem`
-- Padding: 20px
+- Padding left without icons: `1rem`
+- Padding left with icons on the left: `3rem`
+- Padding right with icons on the right: `1rem`
 
 ### Section content
-- Font size: `1rem `
-- Text color: `$color-dark`
-- Line height: `1.5rem`
-- Padding: 16px
+- Font size: `1rem`
+- Text color: `muted-text`
+- Line height: `1.rem`
+- Padding left with icons on the left: `3rem`
+- Padding right with icons on the right: `1rem`
+- Text should wrap by default
 
-### Expand
-- Icon: https://assets.ubuntu.com/v1/897f5f6c-Accordion-open.svg
-- Background: `$color-light`
-- Padding top and bottom: 8px
-- Padding left and right: 20px
+### Icons
+- Icon size: 16x16px
+- Padding left: `1.rem`
+- Padding right: `1.rem`
 
-### Collapse
-- Icon: https://assets.ubuntu.com/v1/abbb2c52-Accordion-close.svg
-
-### Breakline
-- Border color: `$color-mid-light`
+### Divider
+- Border color: `color-mid-x-light`
 - Border width: 1px
 - Border style: solid
-- Padding: 20px
+- Padding top: `1.rem`
 
-### External link
-- Use the .p-link—external class: p-link--strong
+### Hover style
+- Background colour: `colour-light`
+- Text colour: `colour-dark`
+
+### Selected style
+- Background colour: `colour-light`
+- Text colour: `colour-dark`
+- Selected tab size: 3x24px
+- Selected tab colour: `colour-brand`
+
+### Small screen
+- This needs to be designed
 
 
