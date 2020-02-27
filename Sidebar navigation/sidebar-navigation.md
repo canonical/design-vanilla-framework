@@ -1,7 +1,7 @@
 # Vanilla: Sidebar navigation
 
 ### Layout
-- Max width: 3-col
+- Fill the width of its parent container
 
 ### Section heading
 - Section headings should be optional
