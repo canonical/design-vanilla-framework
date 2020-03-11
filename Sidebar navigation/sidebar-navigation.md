@@ -41,6 +41,21 @@
 - Selected tab size: 3x24px
 - Selected tab colour: `colour-brand`
 
+### Small text
+- Small text should be optional
+- Font size: `small`
+- Text color: `muted-text`
+- Line height: `1.25rem`
+- Padding left without icons: `1rem`
+- Padding left with icons on the left: `3rem`
+- Padding right with icons on the right: `1rem`
+
+### Small text hover style
+- Text colour: `colour-dark`
+
+### Small text selected style
+- Text colour: `colour-dark`
+
 ### Small screen
 - This needs to be designed
 
