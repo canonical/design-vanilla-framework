@@ -3,7 +3,6 @@ This is the design repository for design components for Vanilla Framework, we us
 
 If you have any questions please contact:
 
-- Karl Waghorn-Moyce, Lead Visual Designer -  karl.waghorn-moyce@canonical.com
 - Lyubomir Popov, Senior Visual Designer - lyubomir.popov@canonical.com
 
 ### Component proposal process 
